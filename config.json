@@ -1,0 +1,25 @@
+{
+    "telegram": {
+        "token": "5354572433:AAGWS-0CemLXsGN9AO9_h1sWA6wuoZ8ORbg",
+        "chat_id": "1292989534",
+        "send_error_msg": false
+    },
+    "token": "992daaabd25f7541a8030c97a7d29aae",
+    "privatetoken": "sIFfQddMK5mRbuOZyfXm4EjpUyf4abW3HyCSZdFM2uF53GM2wFu30ajON5CbEqbe",
+    "moodle_domain": "campusvirtual.ucn.cl",
+    "moodle_path": "/",
+    "dont_download_course_ids": [
+        3119,
+        2800
+    ],
+    "download_submissions": false,
+    "download_descriptions": false,
+    "download_links_in_descriptions": true,
+    "download_databases": false,
+    "download_forums": false,
+    "download_quizzes": true,
+    "download_lessons": true,
+    "download_workshops": false,
+    "download_linked_files": true,
+    "download_also_with_cookie": true
+}
